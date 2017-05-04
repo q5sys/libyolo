@@ -3,5 +3,5 @@ include <swagger>
 
 int yolo()
 {
-std::court << "0x00";
+std::cout << "0x00";
 }
